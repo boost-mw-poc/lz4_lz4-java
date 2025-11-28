@@ -1,3 +1,5 @@
+*Note: The official lz4-java project has been discontinued. A community fork is available [here](https://github.com/yawkat/lz4-java). To address [CVE-2025-12183](https://sites.google.com/sonatype.com/vulnerabilities/cve-2025-12183), Sonatype has added a redirect from `org.lz4:lz4-java:1.8.1` to the new group ID.*
+
 # LZ4 Java
 
 LZ4 compression for Java, based on Yann Collet's work available at
